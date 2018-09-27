@@ -1,0 +1,10 @@
+[package]
+name = "teapot_vulkan"
+version = "0.1.0"
+authors = ["thatSteveFan <thatstevefan@gmail.com>"]
+
+[dependencies]
+vulkano = "*"
+vulkano-win = "*"
+vulkano-shaders = "*"
+vulkano-shader-derive = "*"
